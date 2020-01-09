@@ -1,1 +1,4 @@
 sql connection
+
+
+db = localhost;
